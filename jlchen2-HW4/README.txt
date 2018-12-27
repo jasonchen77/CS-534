@@ -1,0 +1,1 @@
+The panoramic image from the photos I've taken did not turn out as good as the test images from the homework.  But it is still okay.  Just some blur spots.

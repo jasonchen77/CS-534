@@ -1,0 +1,1 @@
+The artifacts are likely caused by loss of resolution in details and sharpness.  Which causes the objects' edge in the picture to have color fringes and roughness.
